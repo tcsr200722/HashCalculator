@@ -26,7 +26,7 @@
 
     <ItemGroup>
         <PackageReference Include="CommandLineParser" Version="2.9.1" />
-        <PackageReference Include="Costura.Fody" Version="6.0.0" IncludeAssets="runtime; compile; build; native; contentfiles; analyzers; buildtransitive" PrivateAssets="all" />
+        <PackageReference Include="Costura.Fody" Version="6.2.0" IncludeAssets="runtime; compile; build; native; contentfiles; analyzers; buildtransitive" PrivateAssets="all" />
         <PackageReference Include="HandyControl" Version="3.5.1" />
         <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
         <PackageReference Include="WindowsAPICodePack-Core" Version="1.1.2" NoWarn="NU1701" />
